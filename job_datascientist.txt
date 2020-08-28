@@ -1,0 +1,30 @@
+Strong, proven background in developing real world machine learning algorithms including, 
+	conducting exploratory data analysis, 
+	cleaning/imputing noisy/missing data, 
+	feature engineering, 
+	model building and validation.
+Good understanding of probabilistic methods for statistical inference and decision making including 
+	Bayesian and 
+	Frequentist statistics.
+
+Understanding of the theory and practical usage of machine learning methods like 
+	Naive Bayes, 
+	Logistic regression, 
+	SVM, 
+	Kernel methods, 
+	decision trees, 
+	random forests, 
+	CART models, 
+	Graphical models (Bayesian an Markov Networks), 
+	Latent linear models (ICA,PCA, LDA, matrix factorizations) etc. 
+Familiarity with emerging state of the art methods like 
+	deep learning  a plus. 
+
+Participation and strong performance in relevant data science competitions/competitive courses a strong plus. 
+
+Strong implementation skills in deploying and scaling cloud based machine learning models on big data  
+
+Working knowledge of Amazon AWS ecosystem, especially for deploying big data system architectures, including serverless event driven architectures (AWS-lambda) 
+
+Good knowledge of cluster compute frameworks such as Spark and Hadoop ecosystem (MapReduce, HDFS etc.) 
+
